@@ -1,0 +1,40 @@
+
+
+.btn-primary{
+    
+    background-color: darkgreen;
+    font-weight: bold;
+    font-size: 11px;
+    color: white;
+    border: none;
+    padding: 15px 28px;
+    border-radius: 7px
+    }
+   .dark-2{
+    color: gray;
+   }
+   .banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30px 200px;
+    background-color: aquamarine;
+    border-radius: 22;
+   }
+    .header{
+        background-image: url();
+    }
+   /* banner styles */
+    .banner-greetings{
+   
+    }
+    .banner-content{
+        max-width: 580px;
+    }
+    .banner-title{
+     font-weight: 615px;
+     font-size: 50px;
+     
+    }
+    .banner-prof-pic{
+        width: 550px;
+    }
