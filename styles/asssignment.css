@@ -2,13 +2,33 @@
 
 .btn-primary{
     
-    background-color: darkgreen;
+    background-color: green ;
     font-weight: bold;
     font-size: 11px;
     color: white;
     border: none;
     padding: 15px 28px;
     border-radius: 7px
+    
+    }
+    .btn-prime{
+     background-color: darkorange;
+     font-weight: bold;
+     font-size: 11px;
+     color: white;
+     border: none;
+     padding: 15px 28px;
+     border-radius: 7px;
+    }
+    .btm-primer{
+        background-color: darkblue;
+        font-weight: bold;
+        font-size: 11px;
+        color: white;
+        border: none;
+        padding: 15px 28px;
+        border-radius: 7px;
+
     }
    .dark-2{
     color: gray;
@@ -21,7 +41,7 @@
     border-radius: 22;
    }
     .header{
-        background-image: url();
+        background-image:
     }
    /* banner styles */
     .banner-greetings{
@@ -33,8 +53,46 @@
     .banner-title{
      font-weight: 615px;
      font-size: 50px;
+     background-color: white;
+     background-position: ;
      
     }
     .banner-prof-pic{
         width: 550px;
     }
+
+
+    /* skills section styles */
+    .skills-container{
+        display: flex;
+    }
+
+
+.skill{
+    padding: 28px;
+     
+}
+
+    .skill-font{
+        background-color: yellow;
+        border-radius: 5px;
+        padding: 31px;
+        gap: 25px;
+    }
+
+.skill-inst{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 31px;
+    gap: 25px;
+}
+.skill-front{
+    background-color: darkgreen;
+    border-radius: 5px;
+      padding: 31px;
+      gap: 25px;
+      
+}
+.skills-container{
+    gap: 25px;
+}
