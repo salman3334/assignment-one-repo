@@ -8,8 +8,22 @@
     color: white;
     border: none;
     padding: 15px 28px;
-    border-radius: 7px
-    
+    border-radius: 7px;
+    }
+    .btn-atemp{
+        background-color: green;
+        font-weight:bold ;
+        font-size: 11px;
+        color: white;
+        border: none;
+        padding: 15px 28px;
+        border-radius: 7px;
+        background-size: 15px;
+        text-align: center;
+        
+    }
+    .chilld{
+        background-color: green;
     }
     .btn-prime{
      background-color: darkorange;
@@ -142,5 +156,47 @@
 .banner-desp{
     justify-content: right;
 }
-
+.parent{
+    padding: 20px;
+    background-color: whitesmoke;
+    max-width: 1140px;
+    margin: 22px auto;
+    text-align: center;
+}
+.boldd{
+ background-color: lightgreen;
+ border: 3px solid;
+ padding: 7px;
+ font-size: 26px;
+ margin: 10px 0px;
+ border-radius: 15px;
+ display: inline;
+}
+.child{
+    border: 3px solid;
+    background-color: whitesmoke;
+    padding: 7px;
+    font-size: 26px;
+    margin: 10px 0px;
+    border-radius: 15px;
+    display: inline;
+    justify-content: space-around
+}
+.anormal{
+    text-align: center;
+    
+}
+.taka{
+    font-size: 26px;
+    margin: 20px;
+    background-color: white;
+    color: red;
+    max-width: 1140px;
+}
+.btn-mod{
+   text-align: center;
+}
+.sub-tee{
+    background-color: green;
+}
 
